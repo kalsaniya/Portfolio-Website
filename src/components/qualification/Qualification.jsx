@@ -39,7 +39,7 @@ export const Qualification = () => {
         <div className="qualification__sections">
           <div
             className={
-              toggleState == 1
+              toggleState === 1
                 ? "qualification__content qualification__content-active"
                 : "qualification__content"
             }
@@ -105,7 +105,7 @@ export const Qualification = () => {
 
           <div
             className={
-              toggleState == 2
+              toggleState === 2
                 ? "qualification__content qualification__content-active"
                 : "qualification__content"
             }
