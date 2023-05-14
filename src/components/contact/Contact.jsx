@@ -46,7 +46,7 @@ export const Contact = () => {
               <h3 className="contact__card-title">Whatsapp</h3>
               <span className="contact__card-data">+91 9808787488</span>
               <a
-                href="https://api.whatsapp.com/send?phone=9808787488&text=Hello, more information!"
+                href="https://api.whatsapp.com/send?phone=+91 9808787488&text=Hello, more information!"
                 className="contact__button"
               >
                 Write me
