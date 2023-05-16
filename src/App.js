@@ -22,11 +22,11 @@ function App() {
         <Services />
         <Qualification />
         <Work />
-        <Testimonials />
+        {/* <Testimonials /> */}
         <Contact />
-        <Footer />
       </main>
-      {/* <ScrollUp /> */}
+      <Footer />
+      <ScrollUp />
     </>
   );
 }
