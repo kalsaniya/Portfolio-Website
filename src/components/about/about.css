@@ -3,13 +3,7 @@
   align-items: center;
   column-gap: 4rem;
 }
-.about__content {
-  grid-template-columns: repeat(2, 1fr);
-  column-gap: 2rem;
-}
-.section__title {
-  align-items: center;
-}
+
 .about__img {
   width: 350px;
   border-radius: 1.5rem;
