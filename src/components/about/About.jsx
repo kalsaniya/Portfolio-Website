@@ -1,5 +1,4 @@
 import React from "react";
-// import AboutImg from "../../assets/about.jpg";
 import AboutImg from "../../assets/abt.png";
 import CV from "../../assets/Gurmeet-Singh-Resume.pdf";
 import { Info } from "./Info";
