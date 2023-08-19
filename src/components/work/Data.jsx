@@ -3,6 +3,7 @@ import Work2 from "../../assets/work6.jpg";
 import Work3 from "../../assets/work10.jpg";
 import Work4 from "../../assets/work9.jpg";
 import Work5 from "../../assets/work8.jpg";
+import Work6 from "../../assets/pokedex.jpg";
 
 export const projectsData = [
   {
@@ -39,6 +40,13 @@ export const projectsData = [
     title: "Portfolio",
     category: "web",
     link: "/",
+  },
+  {
+    id: 6,
+    image: Work6,
+    title: "Pokedex",
+    category: "web",
+    link: "https://pokedexx-x.netlify.app/",
   },
 ];
 
