@@ -56,9 +56,9 @@ export const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Full Stack Developer</h3>
+      <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
-        I'm creative developer based in Delhi, and I'm very passionate and
+        I'm creative web developer based in Delhi, and I'm very passionate and
         dedicated to my work.
       </p>
       <a href="#contact" className="button button--flex">
