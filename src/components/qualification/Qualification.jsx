@@ -113,11 +113,48 @@ export const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">
+                  FullStack Developer - MERN
+                </h3>
+                <span className="qualification__subtitle">
+                  The Mind Collective-Delhi
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> 2023-Present
+                </div>
+              </div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">
+                  Jr. Web Developer - Python
+                </h3>
+                <span className="qualification__subtitle">
+                  Realmco-banglore
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i> 2021-2022
+                </div>
+              </div>
+            </div>
+
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">
                   Jr. Application Developer
                 </h3>
                 <span className="qualification__subtitle">Virtuzo-Noida</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i> 2021-2022
+                  <i className="uil uil-calendar-alt"></i> 2021-2021
                 </div>
               </div>
               <div>

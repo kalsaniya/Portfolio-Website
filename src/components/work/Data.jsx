@@ -4,6 +4,8 @@ import Work3 from "../../assets/work10.jpg";
 import Work4 from "../../assets/work9.jpg";
 import Work5 from "../../assets/work8.jpg";
 import Work6 from "../../assets/pokedex.jpg";
+import Work11 from "../../assets/work11.jpg";
+import Work12 from "../../assets/work12.jpg";
 
 export const projectsData = [
   {
@@ -47,6 +49,20 @@ export const projectsData = [
     title: "Pokedex",
     category: "web",
     link: "https://pokedexx-x.netlify.app/",
+  },
+  {
+    id: 7,
+    image: Work11,
+    title: "BeautyBurst",
+    category: "web",
+    link: "https://beautyburst.pages.dev/",
+  },
+  {
+    id: 8,
+    image: Work12,
+    title: "Multimart",
+    category: "web",
+    link: "https://ee-mart.netlify.app/home",
   },
 ];
 
