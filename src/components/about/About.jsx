@@ -17,7 +17,7 @@ export const About = () => {
           <Info />
           <p className="about__description">
             Frontend developer, I create web pages with UI / UX user interface,
-            I have a year of experience after completion an Internship with a
+            I have years of experience after completion an Internship with a
             Tech-based company in Noida.
           </p>
           <a download="" href={CV} className="button button--flex">
